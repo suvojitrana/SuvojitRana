@@ -44,3 +44,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvojitrana&show_icons=true&locale=en" alt="suvojitrana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvojitrana&" alt="suvojitrana" /></p>
+<img align="center" alt= "Embedded System Developer"  height="100" width="1000" src="https://repository-images.githubusercontent.com/601737892/fd6544e4-8819-4ba1-a55e-d4785340a2b9">
