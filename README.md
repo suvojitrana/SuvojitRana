@@ -1,4 +1,4 @@
-<img align="center" alt= "Embedded System Developer"  height="100" width="1000" src="https://repository-images.githubusercontent.com/248428474/1f65d753-4bf4-4a49-8310-7ae814fe1c8a">
+<img align="center" alt= "Embedded System Developer"  height="200" width="1000" src="https://repository-images.githubusercontent.com/248428474/1f65d753-4bf4-4a49-8310-7ae814fe1c8a">
 
 <h1 align="center">Hi 👋, I'm Suvojit Rana</h1>
 <h3 align="center">I am an Electronics Engineer specializing in embedded firmware, robotics, and electronics R&D — with hands-on experience in Arduino,NodeMCU,Raspberry Pi,STM32,and IoT systems.</h3>
